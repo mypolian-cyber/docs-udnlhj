@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-pswffp.trans88.online/sitemap.xml
